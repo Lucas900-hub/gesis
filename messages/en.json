@@ -1,0 +1,270 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "actions": "Our Actions",
+    "getInvolved": "Get Involved",
+    "contact": "Contact",
+    "donate": "Donate"
+  },
+  "Index": {
+    "badge": "Recognized NGO — Republic of Benin",
+    "heroTitle1": "Together, let's build",
+    "heroTitle2": "a fairer world",
+    "heroTitle3": "for every generation.",
+    "heroDesc": "GESIS mobilizes youth, communities, and partners to promote solidarity, empowerment, and sustainable development in Benin and Africa.",
+    "btnDiscover": "Discover our actions →",
+    "btnSupport": "Support our mission",
+    "stats": {
+      "beneficiaries": "Direct beneficiaries",
+      "domains": "Areas of intervention",
+      "activities": "Completed activities",
+      "founded": "Founding year"
+    },
+    "mission": {
+      "label": "Who we are",
+      "title": "An organization born from the conviction that every young person matters.",
+      "desc1": "GESIS is a humanitarian, apolitical, and non-denominational NGO, founded to promote community fulfillment through youth empowerment, civic participation, and social innovation.",
+      "desc2": "Our vision: to build a world where each emerging generation, united and committed, actively contributes to sustainable, inclusive, and humanly just development."
+    },
+    "values": {
+      "solidarity": "Solidarity",
+      "solidarityDesc": "Acting together so no one is left behind.",
+      "justice": "Social Justice",
+      "justiceDesc": "Promoting equity, inclusion, and fundamental rights.",
+      "innovation": "Social Innovation",
+      "innovationDesc": "Responding to challenges with creative and sustainable solutions.",
+      "responsibility": "Responsibility",
+      "responsibilityDesc": "Fostering civic engagement and responsible action."
+    },
+    "domains": {
+      "title": "What we do",
+      "heading": "Our areas of intervention",
+      "desc": "GESIS acts on 9 complementary axes for sustainable and inclusive community development.",
+      "list": [
+        { "title": "Education & Leadership", "desc": "Citizenship, youth engagement and community leadership development." },
+        { "title": "Community Health", "desc": "Well-being, awareness and access to care for vulnerable populations." },
+        { "title": "Humanitarian Relief", "desc": "Rapid response to emergencies and support for disaster victims." },
+        { "title": "Environment & Climate", "desc": "Combating climate change and promoting sustainable development." },
+        { "title": "Entrepreneurship", "desc": "Employability, social innovation and support for young entrepreneurs." },
+        { "title": "Rights & Inclusion", "desc": "Protection of the rights of children, women and vulnerable groups." },
+        { "title": "Culture & Heritage", "desc": "Art and culture as levers of social cohesion and development." },
+        { "title": "Sports & Leisure", "desc": "Sport as a tool for fulfillment, inclusion and social peace." },
+        { "title": "Peace & Solidarity", "desc": "Intergenerational cohesion, social inclusion and culture of peace." }
+      ]
+    },
+    "cta": {
+      "supportTitle": "Support our actions",
+      "supportDesc": "Your donation, whatever the amount, directly funds our programs in the field in Benin and changes lives.",
+      "supportBtn": "Donate now",
+      "joinTitle": "Join us",
+      "joinDesc": "Volunteer, member or partner — your commitment makes a difference in the lives of our communities every day.",
+      "joinBtn": "Get involved"
+    }
+  },
+  "Footer": {
+    "desc": "Emerging Generation for Solidarity and Social Impact. Humanitarian, apolitical and non-denominational NGO in Benin.",
+    "nav": "Navigation",
+    "docs": "Official documents",
+    "contact": "Contact",
+    "statuts": "📄 NGO Statutes",
+    "reglement": "📄 Internal Regulations",
+    "address": "Village of Drogbo, Adjarra<br/>Dept. of Ouémé, Benin",
+    "rights": "© {year} GESIS — All rights reserved",
+    "law": "NGO governed by law n° 2025-19 of July 22, 2025 — Republic of Benin"
+  },
+  "Donate": {
+    "badge": "Donate",
+    "title1": "Your generosity changes",
+    "title2": "lives",
+    "desc": "Every contribution, small or large, helps us fund our humanitarian actions and support the communities that need it most.",
+    "successTitle": "Thank you for your generosity!",
+    "successDesc": "Your donation pledge has been recorded. Our team will contact you shortly by email with instructions to complete your transaction via {method}.",
+    "btnAnother": "Make another donation",
+    "formTitle": "Your donation details",
+    "errorMsg": "An error occurred, please try again.",
+    "firstName": "First Name *",
+    "lastName": "Last Name",
+    "email": "Email *",
+    "whatsapp": "WhatsApp Number",
+    "amount": "Amount (in EUR)",
+    "other": "Other",
+    "customAmount": "Enter an amount",
+    "paymentMethod": "Preferred payment method",
+    "card": "Credit Card",
+    "momo": "Mobile Money",
+    "bank": "Bank Transfer",
+    "btnSubmit": "Donate now",
+    "btnLoading": "Processing...",
+    "secure": "Your information is secure",
+    "impactTitle": "Your impact",
+    "impact1": "<strong>20€</strong> provides a complete school kit to a child.",
+    "impact2": "<strong>50€</strong> funds a leadership training for a young person.",
+    "impact3": "<strong>100€</strong> contributes to setting up a sustainable community project.",
+    "transparencyTitle": "Financial transparency",
+    "transparencyDesc": "GESIS is committed to rigorous and transparent management of your donations. Our accounts are audited annually by an independent auditor."
+  },
+  "Contact": {
+    "badge": "Contact us",
+    "title1": "Let's stay in",
+    "title2": "touch",
+    "desc": "Do you have a question, a partnership proposal or do you want to join our volunteers? Don't hesitate to write to us.",
+    "infoTitle": "Contact information",
+    "hq": "Our Headquarters",
+    "hqDesc1": "Village of Drogbo, Maison AHISSOU",
+    "hqDesc2": "Adjarra, Department of Ouémé",
+    "hqDesc3": "Republic of Benin",
+    "phone": "Call Us",
+    "email": "Write to Us",
+    "hours": "Opening Hours",
+    "hoursDesc1": "Monday - Friday: 08:00 - 17:00",
+    "hoursDesc2": "Saturday - Sunday: Closed",
+    "press": "Press & Media",
+    "pressDesc": "For any interview request or press resource, please contact the secretariat.",
+    "formTitle": "Send us a message",
+    "successTitle": "Message sent!",
+    "successDesc": "Thank you for contacting us. Our team will get back to you as soon as possible.",
+    "errorMsg": "An error occurred while sending.",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "subject": "Subject",
+    "optGeneral": "General Information",
+    "optPartnership": "Partnership Proposal",
+    "optVolunteer": "Become a Volunteer",
+    "optMedia": "Press & Media",
+    "message": "Message",
+    "messagePlaceholder": "How can we help you?",
+    "btnSubmitting": "Sending...",
+    "btnSubmit": "Send message"
+  },
+  "About": {
+    "heroBadge": "Our history",
+    "heroTitle1": "About",
+    "heroTitle2": "GESIS",
+    "heroDesc": "An organization born from the conviction that every young person, every woman, every community deserves the means to flourish and contribute to a fairer world.",
+    "identityBadge": "Who we are",
+    "identityTitle1": "Emerging Generation for",
+    "identityTitle2": "Solidarity",
+    "identityTitle3": "and Social Impact",
+    "identityP1": "The NGO <strong>GESIS</strong> — <em>Emerging Generation for Solidarity and Social Impact</em> — is a national and international non-profit non-governmental organization.",
+    "identityP2": "Formerly named <em>\"Amical Sourou Denis AHISSOU\"</em> in 2020, GESIS formalized its commitment during its General Assembly on <strong>September 28, 2025</strong> (law n° 2025-19 of the Republic of Benin).",
+    "identityP3": "A humanitarian, <strong>apolitical and non-denominational</strong> organization, its headquarters is established in the Village of Drogbo, Adjarra, in the Ouémé department in Benin.",
+    "docsTitle": "Official documents",
+    "statutsTitle": "NGO Statutes",
+    "statutsDesc": "PDF — Sept 28, 2025",
+    "reglementTitle": "Internal Regulations",
+    "reglementDesc": "PDF — Sept 28, 2025",
+    "infoAcronym": "Acronym",
+    "infoAcronymVal": "GESIS / EGSSI",
+    "infoPresident": "President",
+    "infoPresidentVal": "AHISSOU Sourou Denis",
+    "infoSec": "Gen. Secretary",
+    "infoSecVal": "KOUCHAINON Pélagie",
+    "infoStatus": "Status",
+    "infoStatusVal": "Humanitarian, apolitical, non-denominational NGO",
+    "infoFounded": "Founded in",
+    "infoFoundedVal": "2020 — Republic of Benin",
+    "infoHQ": "Headquarters",
+    "infoHQVal": "Village of Drogbo, Maison AHISSOU, Adjarra, Ouémé, Benin",
+    "infoLaw": "Legal basis",
+    "infoLawVal": "Law n° 2025-19 of July 22, 2025",
+    "timelineBadge": "Our journey",
+    "timelineTitle": "From foundation to action",
+    "timelineDesc": "The key milestones that have shaped GESIS since its creation.",
+    "timelineItems": [
+      {
+        "date": "2020",
+        "title": "Foundation — Amical Sourou Denis AHISSOU",
+        "desc": "Creation of the organization by a group of committed young people, driven by the conviction that youth is a lever for development."
+      },
+      {
+        "date": "August 2025",
+        "title": "Membership in Youth For Peace Benin",
+        "desc": "GESIS officially joins the national platform and integrates the Commission in charge of communication and advocacy."
+      },
+      {
+        "date": "September 28, 2025",
+        "title": "Constituent General Assembly",
+        "desc": "Official adoption of the statutes and launch of GESIS (law n° 2025-19)."
+      },
+      {
+        "date": "December 2025",
+        "title": "Festisol Ouémé",
+        "desc": "Active participation in the Festival of Solidarities and receipt of the certificate of recognition."
+      },
+      {
+        "date": "January–March 2026",
+        "title": "Expansion of activities",
+        "desc": "Digital peace campaign, electoral observation, Nature University, webinars and recruitment of volunteers."
+      },
+      {
+        "date": "Today",
+        "title": "Booming",
+        "desc": "Development of new projects and strengthening of partnerships in Benin and Africa."
+      }
+    ],
+    "govBadge": "Our structure",
+    "govTitle": "Governance & Organization",
+    "govDesc": "GESIS has rigorous and transparent governance, defined by its statutes and internal regulations.",
+    "govBlocks": [
+      {
+        "title": "General Assembly",
+        "role": "Supreme decision-making body",
+        "desc": "Composed of all members up to date with their commitments. Meets in ordinary session once a year (January). Defines major orientations, approves reports and can modify statutes."
+      },
+      {
+        "title": "Board of Directors",
+        "role": "Strategic and control body",
+        "desc": "Composed of a President, a General Secretary, a General Treasurer and two advisory members. Renewable 5-year term. Defines strategies and controls the Executive Direction."
+      },
+      {
+        "title": "Auditors",
+        "role": "Control and audit body",
+        "desc": "Composed of two members. Verifies the regularity and sincerity of annual accounts, evaluates financial management procedures and formulates independent recommendations."
+      },
+      {
+        "title": "Executive Direction",
+        "role": "Operational body",
+        "desc": "Ensures daily management and execution of projects. Includes an Executive Director, an Administrative Manager, an Accountant, a Program Officer, a Communication Officer and a Partnership Officer."
+      }
+    ]
+  },
+  "Actions": {
+    "badge": "Our Actions",
+    "title1": "Concrete actions for",
+    "title2": "real impact",
+    "desc": "Discover how GESIS engages daily on the ground through projects related to education, peace, environment and social inclusion.",
+    "listTitle": "Our Recent Projects",
+    "listDesc": "Discover the concrete initiatives carried out by GESIS on the ground to durably impact our communities.",
+    "empty": "No project published yet."
+  },
+  "GetInvolved": {
+    "badge": "Take action",
+    "title1": "Get involved with",
+    "title2": "GESIS",
+    "desc": "Whether you have time, skills or resources to share, there is always a place for you in our movement. Together, we are stronger.",
+    "ways": [
+      {
+        "title": "Become a Volunteer",
+        "desc": "Join our network of passionate volunteers. Put your skills at the service of concrete actions on the ground and participate in our events.",
+        "cta": "Join the team"
+      },
+      {
+        "title": "Become a Partner",
+        "desc": "Companies, institutions, or other NGOs: let's build powerful synergies together to amplify our social and environmental impact.",
+        "cta": "Propose a partnership"
+      },
+      {
+        "title": "Make a Donation",
+        "desc": "Your financial support is crucial. It allows us to deploy our educational, health and emergency relief programs as close as possible to vulnerable populations.",
+        "cta": "Support financially"
+      }
+    ]
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "description": "Sorry, the page you are looking for does not exist or has been moved.",
+    "backHome": "Back to Home"
+  }
+}

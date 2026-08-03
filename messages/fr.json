@@ -1,0 +1,270 @@
+{
+  "Navigation": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "actions": "Nos Actions",
+    "getInvolved": "S'impliquer",
+    "contact": "Contact",
+    "donate": "Faire un don"
+  },
+  "Index": {
+    "badge": "ONG reconnue — République du Bénin",
+    "heroTitle1": "Ensemble, bâtissons",
+    "heroTitle2": "un monde plus juste",
+    "heroTitle3": "pour chaque génération.",
+    "heroDesc": "GESIS mobilise les jeunes, les communautés et les partenaires pour promouvoir la solidarité, l'autonomisation et le développement durable au Bénin et en Afrique.",
+    "btnDiscover": "Découvrir nos actions →",
+    "btnSupport": "Soutenir notre mission",
+    "stats": {
+      "beneficiaries": "Bénéficiaires directs",
+      "domains": "Domaines d'intervention",
+      "activities": "Activités réalisées",
+      "founded": "Année de fondation"
+    },
+    "mission": {
+      "label": "Qui sommes-nous",
+      "title": "Une organisation née de la conviction que chaque jeune compte.",
+      "desc1": "GESIS est une ONG humanitaire, apolitique et non confessionnelle, fondée pour promouvoir l'épanouissement des communautés à travers l'autonomisation des jeunes, la participation citoyenne et l'innovation sociale.",
+      "desc2": "Notre vision : construire un monde où chaque génération émergente, solidaire et engagée, contribue activement à un développement durable, inclusif et humainement juste."
+    },
+    "values": {
+      "solidarity": "Solidarité",
+      "solidarityDesc": "Agir ensemble pour ne laisser personne de côté.",
+      "justice": "Justice sociale",
+      "justiceDesc": "Promouvoir l'équité, l'inclusion et les droits fondamentaux.",
+      "innovation": "Innovation sociale",
+      "innovationDesc": "Répondre aux défis par des solutions créatives et durables.",
+      "responsibility": "Responsabilité",
+      "responsibilityDesc": "Favoriser l'engagement citoyen et l'action responsable."
+    },
+    "domains": {
+      "title": "Ce que nous faisons",
+      "heading": "Nos domaines d'intervention",
+      "desc": "GESIS agit sur 9 axes complémentaires pour un développement communautaire durable et inclusif.",
+      "list": [
+        { "title": "Éducation & Leadership", "desc": "Citoyenneté, engagement jeunesse et développement du leadership communautaire." },
+        { "title": "Santé communautaire", "desc": "Bien-être, sensibilisation et accès aux soins pour les populations vulnérables." },
+        { "title": "Secours humanitaire", "desc": "Réponse rapide aux situations d'urgence et accompagnement des sinistrés." },
+        { "title": "Environnement & Climat", "desc": "Lutte contre le changement climatique et promotion du développement durable." },
+        { "title": "Entrepreneuriat", "desc": "Employabilité, innovation sociale et accompagnement des jeunes entrepreneurs." },
+        { "title": "Droits & Inclusion", "desc": "Protection des droits des enfants, des femmes et des groupes vulnérables." },
+        { "title": "Culture & Patrimoine", "desc": "L'art et la culture comme leviers de cohésion sociale et de développement." },
+        { "title": "Sport & Loisirs", "desc": "Le sport comme outil d'épanouissement, d'inclusion et de paix sociale." },
+        { "title": "Paix & Solidarité", "desc": "Cohésion intergénérationnelle, inclusion sociale et culture de la paix." }
+      ]
+    },
+    "cta": {
+      "supportTitle": "Soutenez nos actions",
+      "supportDesc": "Votre don, quel que soit son montant, finance directement nos programmes sur le terrain au Bénin et change des vies.",
+      "supportBtn": "Faire un don maintenant",
+      "joinTitle": "Rejoignez-nous",
+      "joinDesc": "Bénévole, membre ou partenaire — votre engagement fait la différence dans la vie de nos communautés au quotidien.",
+      "joinBtn": "S'impliquer"
+    }
+  },
+  "Footer": {
+    "desc": "Génération Émergente pour la Solidarité et Impact Social. ONG humanitaire, apolitique et non confessionnelle au Bénin.",
+    "nav": "Navigation",
+    "docs": "Documents officiels",
+    "contact": "Contact",
+    "statuts": "📄 Statuts de l'ONG",
+    "reglement": "📄 Règlement intérieur",
+    "address": "Village de Drogbo, Adjarra<br/>Dépt. de l'Ouémé, Bénin",
+    "rights": "© {year} GESIS — Tous droits réservés",
+    "law": "ONG régie par la loi n° 2025-19 du 22 juillet 2025 — République du Bénin"
+  },
+  "Donate": {
+    "badge": "Faire un don",
+    "title1": "Votre générosité change des",
+    "title2": "vies",
+    "desc": "Chaque contribution, petite ou grande, nous aide à financer nos actions humanitaires et à soutenir les communautés qui en ont le plus besoin.",
+    "successTitle": "Merci pour votre générosité !",
+    "successDesc": "Votre promesse de don a bien été enregistrée. Notre équipe vous contactera rapidement par email avec les instructions pour finaliser votre transaction via {method}.",
+    "btnAnother": "Faire un autre don",
+    "formTitle": "Détails de votre don",
+    "errorMsg": "Une erreur est survenue, veuillez réessayer.",
+    "firstName": "Prénom *",
+    "lastName": "Nom",
+    "email": "Email *",
+    "whatsapp": "Numéro WhatsApp",
+    "amount": "Montant (en EUR)",
+    "other": "Autre",
+    "customAmount": "Saisissez un montant",
+    "paymentMethod": "Moyen de paiement souhaité",
+    "card": "Carte Bancaire",
+    "momo": "Mobile Money",
+    "bank": "Virement",
+    "btnSubmit": "Faire mon don maintenant",
+    "btnLoading": "Traitement...",
+    "secure": "Vos informations sont sécurisées",
+    "impactTitle": "Votre impact",
+    "impact1": "<strong>20€</strong> offre un kit scolaire complet à un enfant.",
+    "impact2": "<strong>50€</strong> permet de financer une formation en leadership pour un jeune.",
+    "impact3": "<strong>100€</strong> contribue à la mise en place d'un projet communautaire durable.",
+    "transparencyTitle": "Transparence financière",
+    "transparencyDesc": "GESIS s'engage à une gestion rigoureuse et transparente de vos dons. Nos comptes sont audités annuellement par un Commissariat aux Comptes indépendant."
+  },
+  "Contact": {
+    "badge": "Contactez-nous",
+    "title1": "Gardons le",
+    "title2": "contact",
+    "desc": "Vous avez une question, une proposition de partenariat ou vous souhaitez rejoindre nos bénévoles ? N'hésitez pas à nous écrire.",
+    "infoTitle": "Informations de contact",
+    "hq": "Notre Siège Social",
+    "hqDesc1": "Village de Drogbo, Maison AHISSOU",
+    "hqDesc2": "Adjarra, Département de l'Ouémé",
+    "hqDesc3": "République du Bénin",
+    "phone": "Nous Appeler",
+    "email": "Nous Écrire",
+    "hours": "Heures d'Ouverture",
+    "hoursDesc1": "Lundi - Vendredi: 08:00 - 17:00",
+    "hoursDesc2": "Samedi - Dimanche: Fermé",
+    "press": "Presse & Médias",
+    "pressDesc": "Pour toute demande d'interview ou ressource de presse, veuillez contacter le secrétariat.",
+    "formTitle": "Envoyez-nous un message",
+    "successTitle": "Message envoyé !",
+    "successDesc": "Merci de nous avoir contactés. Notre équipe vous répondra dans les plus brefs délais.",
+    "errorMsg": "Une erreur est survenue lors de l'envoi.",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Adresse e-mail",
+    "subject": "Sujet",
+    "optGeneral": "Information générale",
+    "optPartnership": "Proposition de partenariat",
+    "optVolunteer": "Devenir bénévole",
+    "optMedia": "Presse & Médias",
+    "message": "Message",
+    "messagePlaceholder": "Comment pouvons-nous vous aider ?",
+    "btnSubmitting": "Envoi en cours...",
+    "btnSubmit": "Envoyer le message"
+  },
+  "About": {
+    "heroBadge": "Notre histoire",
+    "heroTitle1": "À Propos de",
+    "heroTitle2": "GESIS",
+    "heroDesc": "Une organisation née de la conviction que chaque jeune, chaque femme, chaque communauté mérite les moyens de s'épanouir et de contribuer à un monde plus juste.",
+    "identityBadge": "Qui sommes-nous",
+    "identityTitle1": "Génération Émergente pour la",
+    "identityTitle2": "Solidarité",
+    "identityTitle3": "et l'Impact Social",
+    "identityP1": "L'ONG <strong>GESIS</strong> — <em>Génération Émergente pour la Solidarité et Impact Social</em> — est une organisation non gouvernementale nationale et internationale à but non lucratif.",
+    "identityP2": "Anciennement dénommée <em>\"Amical Sourou Denis AHISSOU\"</em> en 2020, GESIS a formalisé son engagement lors de son Assemblée Générale du <strong>28 septembre 2025</strong> (loi n° 2025-19 de la République du Bénin).",
+    "identityP3": "Organisation humanitaire, <strong>apolitique et non confessionnelle</strong>, son siège est établi au Village de Drogbo, Adjarra, dans le département de l'Ouémé au Bénin.",
+    "docsTitle": "Documents officiels",
+    "statutsTitle": "Statuts de l'ONG",
+    "statutsDesc": "PDF — 28 sept. 2025",
+    "reglementTitle": "Règlement Intérieur",
+    "reglementDesc": "PDF — 28 sept. 2025",
+    "infoAcronym": "Acronyme",
+    "infoAcronymVal": "GESIS / EGSSI",
+    "infoPresident": "Président",
+    "infoPresidentVal": "AHISSOU Sourou Denis",
+    "infoSec": "Secrétaire Gén.",
+    "infoSecVal": "KOUCHAINON Pélagie",
+    "infoStatus": "Statut",
+    "infoStatusVal": "ONG humanitaire, apolitique, non confessionnelle",
+    "infoFounded": "Fondée en",
+    "infoFoundedVal": "2020 — République du Bénin",
+    "infoHQ": "Siège social",
+    "infoHQVal": "Village de Drogbo, Maison AHISSOU, Adjarra, Ouémé, Bénin",
+    "infoLaw": "Base légale",
+    "infoLawVal": "Loi n° 2025-19 du 22 juillet 2025",
+    "timelineBadge": "Notre parcours",
+    "timelineTitle": "De la fondation à l'action",
+    "timelineDesc": "Les étapes clés qui ont forgé GESIS depuis sa création.",
+    "timelineItems": [
+      {
+        "date": "2020",
+        "title": "Fondation — Amical Sourou Denis AHISSOU",
+        "desc": "Création de l'organisation par un groupe de jeunes engagés, animés par la conviction que la jeunesse est un levier de développement."
+      },
+      {
+        "date": "Août 2025",
+        "title": "Adhésion à Youth For Peace Bénin",
+        "desc": "GESIS rejoint officiellement la plateforme nationale et intègre la Commission en charge de la communication et du plaidoyer."
+      },
+      {
+        "date": "28 septembre 2025",
+        "title": "Assemblée Générale Constitutive",
+        "desc": "Adoption officielle des statuts et lancement de GESIS (loi n° 2025-19)."
+      },
+      {
+        "date": "Décembre 2025",
+        "title": "Festisol Ouémé",
+        "desc": "Participation active au Festival des Solidarités et réception de l'attestation de reconnaissance."
+      },
+      {
+        "date": "Janvier–Mars 2026",
+        "title": "Expansion des activités",
+        "desc": "Campagne digitale pour la paix, observation électorale, Université de la nature, webinaires et recrutement de bénévoles."
+      },
+      {
+        "date": "Aujourd'hui",
+        "title": "En plein essor",
+        "desc": "Développement de nouveaux projets et renforcement des partenariats au Bénin et en Afrique."
+      }
+    ],
+    "govBadge": "Notre structure",
+    "govTitle": "Gouvernance & Organisation",
+    "govDesc": "GESIS est dotée d'une gouvernance rigoureuse et transparente, définie par ses statuts et son règlement intérieur.",
+    "govBlocks": [
+      {
+        "title": "Assemblée Générale",
+        "role": "Organe suprême de décision",
+        "desc": "Composée de tous les membres à jour de leurs engagements. Se réunit en session ordinaire une fois par an (janvier). Définit les grandes orientations, approuve les rapports et peut modifier les statuts."
+      },
+      {
+        "title": "Conseil d'Administration",
+        "role": "Organe stratégique et de contrôle",
+        "desc": "Composé d'un Président, d'un Secrétaire Général, d'un Trésorier Général et de deux membres conseillers. Mandat de 5 ans renouvelable. Définit les stratégies et contrôle la Direction Exécutive."
+      },
+      {
+        "title": "Commissariat aux Comptes",
+        "role": "Organe de contrôle et d'audit",
+        "desc": "Composé de deux membres. Vérifie la régularité et la sincérité des comptes annuels, évalue les procédures de gestion financière et formule des recommandations indépendantes."
+      },
+      {
+        "title": "Direction Exécutive",
+        "role": "Organe opérationnel",
+        "desc": "Assure la gestion quotidienne et l'exécution des projets. Comprend un Directeur Exécutif, un Responsable administratif, un Comptable, un Chargé des Programmes, un Chargé de Communication et un Chargé des Partenariats."
+      }
+    ]
+  },
+  "Actions": {
+    "badge": "Nos Actions",
+    "title1": "Des actions concrètes pour",
+    "title2": "un impact réel",
+    "desc": "Découvrez comment GESIS s'engage au quotidien sur le terrain à travers des projets liés à l'éducation, la paix, l'environnement et l'inclusion sociale.",
+    "listTitle": "Nos Projets Récents",
+    "listDesc": "Découvrez les initiatives concrètes menées par GESIS sur le terrain pour impacter durablement nos communautés.",
+    "empty": "Aucun projet publié pour le moment."
+  },
+  "GetInvolved": {
+    "badge": "Passez à l'action",
+    "title1": "S'impliquer avec",
+    "title2": "GESIS",
+    "desc": "Que vous ayez du temps, des compétences ou des ressources à partager, il y a toujours une place pour vous dans notre mouvement. Ensemble, nous sommes plus forts.",
+    "ways": [
+      {
+        "title": "Devenir Bénévole",
+        "desc": "Rejoignez notre réseau de bénévoles passionnés. Mettez vos compétences au service d'actions concrètes sur le terrain et participez à nos événements.",
+        "cta": "Rejoindre l'équipe"
+      },
+      {
+        "title": "Devenir Partenaire",
+        "desc": "Entreprises, institutions, ou autres ONG : construisons ensemble des synergies puissantes pour amplifier notre impact social et environnemental.",
+        "cta": "Proposer un partenariat"
+      },
+      {
+        "title": "Faire un Don",
+        "desc": "Votre soutien financier est crucial. Il nous permet de déployer nos programmes éducatifs, de santé et de secours d'urgence au plus près des populations vulnérables.",
+        "cta": "Soutenir financièrement"
+      }
+    ]
+  },
+  "NotFound": {
+    "title": "Page introuvable",
+    "description": "Désolé, la page que vous recherchez n'existe pas ou a été déplacée.",
+    "backHome": "Retour à l'accueil"
+  }
+}

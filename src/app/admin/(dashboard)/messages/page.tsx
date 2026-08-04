@@ -37,6 +37,13 @@ export default function AdminMessagesPage() {
     }
   };
 
+  const subjectMap: Record<string, string> = {
+    'general_info': 'Information générale',
+    'partnership': 'Partenariat',
+    'volunteer': 'Bénévolat',
+    'media': 'Presse & Médias'
+  };
+
   return (
     <div>
       <div className="flex items-center justify-between mb-8">
@@ -79,7 +86,7 @@ export default function AdminMessagesPage() {
                           {message.email}
                         </a>
                         {message.phone && <span>• {message.phone}</span>}
-                        <span>• Sujet : {message.subject}</span>
+                        <span>• Sujet : {subjectMap[message.subject] || message.subject}</span>
                       </div>
                       <div className="text-foreground bg-muted/30 p-4 rounded-xl border border-border/50 whitespace-pre-wrap">
                         {message.message}

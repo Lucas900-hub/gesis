@@ -30,7 +30,7 @@ export default function AdminDashboardPage() {
         ] = await Promise.all([
           supabase.from('contact_messages').select('*', { count: 'exact', head: true }).eq('is_read', false),
           supabase.from('projects').select('*', { count: 'exact', head: true }),
-          supabase.from('volunteer_applications').select('*', { count: 'exact', head: true }),
+          supabase.from('contact_messages').select('*', { count: 'exact', head: true }).eq('subject', 'volunteer'),
           supabase.from('donations').select('*', { count: 'exact', head: true })
         ]);
 

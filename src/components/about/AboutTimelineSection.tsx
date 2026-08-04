@@ -23,7 +23,7 @@ export function AboutTimelineSection() {
   const lineHeight = useTransform(scrollYProgress, [0, 1], ["0%", "100%"]);
 
   return (
-    <section className="py-24 bg-muted/20 relative" ref={containerRef}>
+    <section className="py-24 bg-muted/20 relative overflow-hidden" ref={containerRef}>
       <div className="container mx-auto px-4 max-w-5xl">
         <div className="text-center mb-20">
           <motion.div 

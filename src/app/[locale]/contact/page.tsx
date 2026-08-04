@@ -18,12 +18,12 @@ export default function ContactPage() {
     {
       icon: Phone,
       title: t('phone'),
-      details: ["+229 00 00 00 00", "+229 00 00 00 00"]
+      details: ["+229 01 61 86 89 20"]
     },
     {
       icon: Mail,
       title: t('email'),
-      details: ["contact@ong-gesis.org", "partenariats@ong-gesis.org"]
+      details: ["contact@egssi.org"]
     },
     {
       icon: Clock,
@@ -107,8 +107,8 @@ export default function ContactPage() {
             >
               <h4 className="font-bold text-foreground mb-2">{t('press')}</h4>
               <p className="text-muted-foreground text-sm mb-4">{t('pressDesc')}</p>
-              <a href="mailto:presse@ong-gesis.org" className="text-primary font-semibold hover:underline">
-                presse@ong-gesis.org
+              <a href="mailto:contact@egssi.org" className="text-primary font-semibold hover:underline">
+                contact@egssi.org
               </a>
             </motion.div>
           </div>

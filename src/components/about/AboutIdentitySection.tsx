@@ -9,7 +9,7 @@ export function AboutIdentitySection() {
   const t = useTranslations('About');
   
   return (
-    <section className="py-24 bg-background">
+    <section className="py-24 bg-background overflow-hidden">
       <div className="container mx-auto px-4">
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           
@@ -100,9 +100,9 @@ export function AboutIdentitySection() {
                 { label: t('infoHQ'), value: t('infoHQVal') },
                 { label: t('infoLaw'), value: t('infoLawVal') },
               ].map((info, idx) => (
-                <div key={idx} className="flex justify-between items-start py-2 border-b border-border/50 last:border-0">
-                  <span className="text-muted-foreground text-sm font-medium w-1/3">{info.label}</span>
-                  <span className="text-foreground font-medium text-sm text-right w-2/3">{info.value}</span>
+                <div key={idx} className="flex justify-between items-start py-2 border-b border-border/50 last:border-0 gap-4">
+                  <span className="text-muted-foreground text-sm font-medium w-1/3 shrink-0">{info.label}</span>
+                  <span className="text-foreground font-medium text-sm text-right w-2/3 break-words">{info.value}</span>
                 </div>
               ))}
             </div>

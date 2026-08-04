@@ -58,17 +58,18 @@ export default function AdminProjectsPage() {
 
     setSaving(true);
     const { error: uploadError } = await supabase.storage
-      .from('team-images') // Réutilisation du bucket existant (qui a déjà les bonnes politiques RLS)
+      .from('images') // Réutilisation du bucket existant (qui a déjà les bonnes politiques RLS)
       .upload(filePath, file);
 
     if (uploadError) {
       alert("Erreur lors de l'upload de l'image.");
+      console.error(uploadError);
       setSaving(false);
       return;
     }
 
     const { data: { publicUrl } } = supabase.storage
-      .from('team-images')
+      .from('images')
       .getPublicUrl(filePath);
 
     setFormData({ ...formData, cover_image: publicUrl });
